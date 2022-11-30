@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh84688
-- 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail- f20210524@pilani.bits-pilani.ac.in
 
